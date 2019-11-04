@@ -1,0 +1,14 @@
+.card {
+    box-sizing: border-box;
+    margin: 1%;
+    width: 30%;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: center;
+    display: inline-flex;
+}
+
+.img-thumbnail {
+    width: 100%;
+    height:100%;
+    text-align: center;
+}

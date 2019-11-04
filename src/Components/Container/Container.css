@@ -1,0 +1,13 @@
+.container {
+    padding-top: 50px;
+    text-align: center;
+    background: #ECEFF1;
+    height: 100%;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    margin: 0 auto;
+  }
+  
