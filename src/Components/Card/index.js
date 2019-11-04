@@ -7,6 +7,8 @@ console.log(props);
         <h1>ID: {props.id}</h1>
         <img alt={props.name} src={props.image} />
 
+        
+
         </div>
 }
 
